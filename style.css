@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+h1,h2{
+    color: brown;
+}
+
+p{
+    font-style: italic;
+}
+
+button{
+    background-color: brown;
+    color: white;
+}
